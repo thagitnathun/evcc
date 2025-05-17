@@ -25,9 +25,6 @@ evcc is an extensible EV Charge Controller and home energy management system. Fe
   - Sunspec-compatible inverter or home battery devices: Fronius, SMA, SolarEdge, KOSTAL, STECA, E3DC, ...
   - and various others: Discovergy, Tesla PowerWall, LG ESS HOME, OpenEMS (FENECON)
 - [vehicle](https://docs.evcc.io/docs/devices/vehicles) integration (state of charge, remote charge, battery and preconditioning status):
-  - Audi, BMW, Citroën, Dacia, Fiat, Ford, Hyundai, Jaguar, Kia, Landrover, Mercedes-Benz, Mini, Nissan, Opel, Peugeot, Porsche, Renault, Seat, Smart, Skoda, Tesla, Volkswagen, Volvo, ...
-  - Services: OVMS, Tronity
-  - Scooters: Niu, ~~Silence~~
 - [plugins](https://docs.evcc.io/docs/reference/plugins) for integrating with any charger/ meter/ vehicle:
   - Modbus, HTTP, MQTT, Javascript, WebSockets and shell scripts
 - status [notifications](https://docs.evcc.io/docs/reference/configuration/messaging) using [Telegram](https://telegram.org), [PushOver](https://pushover.net) and [many more](https://containrrr.dev/shoutrrr/)
